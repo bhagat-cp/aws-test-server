@@ -26,6 +26,6 @@ spec:
 # minikube service backend_service
   # backend_service: service name
 
-# deleting deployment/service
+# deleting deployment/service in imprative way
 # kubectl delete -f=deployment.yaml -f service.yaml
   

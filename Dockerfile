@@ -18,7 +18,7 @@ CMD [ "node", "app.js" ]
 # docker
   # docker build . -t kub-test
     # kub-test: image name
-  # docker run -d --name cont_name -p 5000:5000 kub-test
+  # docker run -d --name rm cont_name -p 5000:5000 kub-test
     # cont_name: container name
   # docker stop --time=30 cont_name
   # docker rm cont_name
