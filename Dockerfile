@@ -22,7 +22,7 @@ CMD [ "node", "app.js" ]
     # cont_name: container name
   # docker stop --time=30 cont_name
   # docker rm cont_name
-
+ 
 # kubernetes
   # minikube status
   # minikube start --driver=virtualbox
